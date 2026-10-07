@@ -1,0 +1,14 @@
+D:\OneDrive\Desktop\Workshop1\Task1\obj\Debug\net10.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\Workshop1\Task1\obj\Debug\net10.0\Task1.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\Workshop1\Task1\obj\Debug\net10.0\Task1.AssemblyInfo.cs
+D:\OneDrive\Desktop\Workshop1\Task1\obj\Debug\net10.0\Task1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Workshop1\Task1\bin\Debug\net10.0\Task1.exe
+D:\OneDrive\Desktop\Workshop1\Task1\bin\Debug\net10.0\Task1.deps.json
+D:\OneDrive\Desktop\Workshop1\Task1\bin\Debug\net10.0\Task1.runtimeconfig.json
+D:\OneDrive\Desktop\Workshop1\Task1\bin\Debug\net10.0\Task1.dll
+D:\OneDrive\Desktop\Workshop1\Task1\bin\Debug\net10.0\Task1.pdb
+D:\OneDrive\Desktop\Workshop1\Task1\obj\Debug\net10.0\Task1.dll
+D:\OneDrive\Desktop\Workshop1\Task1\obj\Debug\net10.0\refint\Task1.dll
+D:\OneDrive\Desktop\Workshop1\Task1\obj\Debug\net10.0\Task1.pdb
+D:\OneDrive\Desktop\Workshop1\Task1\obj\Debug\net10.0\Task1.genruntimeconfig.cache
+D:\OneDrive\Desktop\Workshop1\Task1\obj\Debug\net10.0\ref\Task1.dll
