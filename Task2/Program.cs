@@ -1,12 +1,14 @@
-﻿class Program
-{
-    static void Main()
-    {
-        // ADD THIS LINE TO TRIGGER THE ERROR:
-        Circle.PI = 3.14159; 
+﻿using System;
 
-        Console.WriteLine($"Circle PI: {Circle.PI}");
-        Console.WriteLine($"Area (radius = 5): {Circle.CalculateArea(5)}");
-        Console.WriteLine($"Perimeter (radius = 5): {Circle.CalculatePerimeter(5)}");
+public class Circle
+{
+    public const double PI = 3.14;
+    public static double CalculateArea(double radius)
+    {
+        return PI * radius * radius;
+    }
+    public static double CalculatePerimeter(double radius)
+    {
+        return 2 * PI * radius;
     }
 }
