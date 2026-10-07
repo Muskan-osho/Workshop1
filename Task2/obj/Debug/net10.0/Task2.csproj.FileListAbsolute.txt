@@ -12,3 +12,4 @@ D:\OneDrive\Desktop\Workshop1\Task2\obj\Debug\net10.0\refint\Task2.dll
 D:\OneDrive\Desktop\Workshop1\Task2\obj\Debug\net10.0\Task2.pdb
 D:\OneDrive\Desktop\Workshop1\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
 D:\OneDrive\Desktop\Workshop1\Task2\obj\Debug\net10.0\ref\Task2.dll
+D:\OneDrive\Desktop\Workshop1\Task2\obj\Debug\net10.0\Task2.sourcelink.json
